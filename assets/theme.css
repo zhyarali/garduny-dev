@@ -1,0 +1,87 @@
+.v-application[class*="theme--dark"] .mdi-menu{
+    color:rgb(243, 243, 243) !important;
+  }
+  
+  .theme--dark.v-application .text-mode{
+    color: rgb(255, 254, 254) !important;
+  }
+  .theme--light.v-application .text-mode{
+    color: #0D2438 !important;
+  }
+
+  .theme--dark.v-application .bg-mode{
+    background: #1e3851 !important;
+  }
+  .theme--light.v-application .bg-mode{
+    background: white !important;
+  }
+
+  /* backround website */
+  .theme--dark.v-application {
+    background: #0D2438 !important;
+    color: #FFFFFF;
+  }
+  .theme--dark.v-application .bg-body{
+    background: #0D2438 !important;
+    color: #FFFFFF;
+  }
+  .theme--light.v-application {
+    background: #EEEDF7 !important;
+  }
+  
+  
+  
+  /* sheet header */
+  
+  .theme--dark.v-sheet {
+    background-color: #1e3851 !important;
+    border-color: #1e3851 !important;
+    color: #FFFFFF;
+  }
+  
+  .theme--dark.header-color{
+    background: #0D2438 !important;
+  }
+  .theme--light.header-color{
+    background: #EEEDF7 !important;
+  }
+  
+  /* background dark mode icon */
+  .theme--dark.v-btn--has-bg {
+    background-color: #1e3851 !important;
+  }
+  
+  /* divider */
+  .theme--dark.v-navigation-drawer .v-divider {
+    border-color: rgb(255 255 255 / 28%) !important;
+  }
+  
+  /* navigation drawer */
+  .theme--dark.v-navigation-drawer {
+      background-color: #1e3851 !important;
+  }
+  
+  /* color primary dark theme */
+  .theme--dark.v-application .primary {
+      background-color: #6366f1 !important;
+      border-color: #6366f1 !important;
+  }
+  .theme--light.v-application .primary {
+      background-color: #6366f1 !important;
+      border-color: #6366f1 !important;
+  }
+
+  .theme--dark.v-application .secondary {
+    background-color: #1e3851 !important;
+    border-color: #1e3851 !important;
+}
+  .theme--light.v-application .secondary {
+    background-color: #1e3851 !important;
+    border-color: #1e3851 !important;
+}
+
+
+  
+  .v-overlay__scrim {
+    background-color: #0D2438 !important;
+  }

@@ -1,0 +1,61 @@
+
+.logo-title {
+    font-family: 'Saira Stencil One', cursive !important;
+    font-weight: normal !important;
+  }
+
+  .tooltip{
+    background: #1e3851 !important;
+    color: #fff !important;
+    font-family: "Roboto",sans-serif !important;
+    padding:10px !important;
+    border-radius:10px !important;
+    margin-bottom: 10px !important;
+  }
+  
+  .v-application{
+  font-family:  "Roboto", sans-serif !important;
+  }
+  
+  .v-btn__content {
+    font-family:  "Roboto", sans-serif !important;
+  }
+  
+  .v-toolbar {
+    transition: 0.6s;
+  }
+  
+  
+  .expand {
+    height: 80px !important;
+    padding-top: 10px;
+  }
+  
+  
+ .v-btn--active{
+      background:#1e3851 !important;
+      color: white !important;
+  }
+  .v-btn--active .nav-item{
+  color: white !important;
+  }
+  
+
+  .v-toolbar__content{
+    justify-content: space-between !important;
+  }
+  
+  
+  .image-sidebar{
+    width:101px !important;
+    height:107px !important;
+  }
+  
+  .list_avatar{
+    width:200px !important;
+  }
+  
+  
+  .v-list-item{
+    margin-bottom: 10px !important;
+  }
