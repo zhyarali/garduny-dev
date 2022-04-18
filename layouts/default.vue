@@ -54,24 +54,12 @@
           </v-list-item-content>
         </v-list-item>
 
-        <v-list-item
-          link
-          @click="$router.push('/Project')"
-        >
-          <v-list-item-icon class="justify-center">
-            <span class="material-icons-round">
-handyman
-</span>
-          </v-list-item-icon>
-          <v-list-item-content>
-            <v-list-item-title class="subtitile-1">Projects</v-list-item-title>
-          </v-list-item-content> 
-        </v-list-item>
+ 
 
 
       <v-list-item
           link
-          @click="$router.push('/#about')"
+          @click="$router.push('/about')"
         >
           <v-list-item-icon class="justify-center">
             <v-icon>mdi-information</v-icon>
@@ -105,11 +93,8 @@ handyman
         Home
       </v-btn>
 
-      <v-btn text to="/project">
-        Projects
-      </v-btn>
 
-      <v-btn text to="/#about">
+      <v-btn text to="/about">
         About Me
       </v-btn>
 
