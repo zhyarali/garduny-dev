@@ -24,6 +24,7 @@
            <v-img max-width="30"
              src="linkedn.svg">
              </v-img>
+<<<<<<< HEAD
           </v-btn>
           <v-btn class="mx-4" target="_blank" href="https://t.me/garduny" icon>
            <v-img max-width="30"
@@ -37,6 +38,14 @@
              <v-btn fab elevation="0" target="_blank" href="https://api.whatsapp.com/send?phone=07501267345" style="background:none !important" icon>
                <v-img max-width="30" src="whatsapp.svg"></v-img>
              </v-btn>
+=======
+          </v-btn>
+          <v-btn class="mx-4" target="_blank" href="https://t.me/garduny" icon>
+           <v-img max-width="30"
+             src="telegram.svg">
+             </v-img>
+          </v-btn>
+>>>>>>> 5b333470ecce34e41d4769128bf265340d720fad
 
         </v-card-text>
 

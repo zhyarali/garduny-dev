@@ -34,13 +34,27 @@
 
     <v-card-subtitle class="text--primary">
       <div style="color:#919191" class="text-justify">
+<<<<<<< HEAD
             I am a Full-stack Developer With A lot of Experience From Backend and Frontend of Applications in Software Development and Working as Fullstack Web Developer Working With Php and Javascript & Typescript and Mvc Model and I Have Own MVC Framework with a lot own library With Php 8 and Can Work With A lot of Php Frameworks Like: {symphony, falcon, Codeigniter, slime,laravel, CakePHP, etc} and Can Work With A lot Javascript Frameworks Like Vue and React and Libraries And Fullstack Laravel & Livewire|vue|react and Can Work With Multiple SQL and NoSQL Databases:{mysql, PostgreSQL,SQLite,mongodb} With Both {mevn-mern} Stack So I Have Power for Facilitate Any Stack to work and Any Project to Learn or Teach or Working on It.
+=======
+        Hi! I’m Muhammad Garduny, 
+        I Am a Full-stack Developer With Alot Experience From Backend and Frontend of the Applications in Software Development and Working as Fullstack Web Developer Working With Php and Javascript & Typescript and Mvc Model and I Have Own Mvc Framework With Php 8 and Can Work With Alot of Php Frameworks Like: {symphony,falcon,codeingniter,slime,laravel,cakephp,etc} and Can Work With Alot Javascript Frameworks Like Vue and React and Libraries 
+        And Fullstack Laravel & Livewire|vue|react and Can Work With Multiple Sql and Nosql Databases:{mysql,postgresql,sqllite,mongodb} 
+        With Both {mevn-mern} Stack and 
+        Now I Am a Freelancer With Remote Job but Before
+        I Have Worked in (Emico Jumla and Bigpower Company Like It Administration and I Have Remotly Worked as It Manager From {myteacher} Website Until Now and Creator of Choveen Website  It Is a Business Website)
+        So I Have Power for Facilitate Any Stack and Any Project to Learn or Teach or Working on It .
+>>>>>>> 5b333470ecce34e41d4769128bf265340d720fad
       </div>
     </v-card-subtitle>
 
     <v-card-actions>
       <v-btn class="primary" @click="hire_me=true" text>Hire Me</v-btn>
+<<<<<<< HEAD
       <v-btn href="MohammadKhalilAhmadResume.pdf" Download class="secondary" text>Download Cv</v-btn>
+=======
+      <v-btn href="cv.pdf" Download class="secondary" text>Download Cv</v-btn>
+>>>>>>> 5b333470ecce34e41d4769128bf265340d720fad
     </v-card-actions>
   </v-card>
 
@@ -74,10 +88,17 @@
       What My Programming<br>Skills Included?
     </v-card-text>
 
+<<<<<<< HEAD
     <!-- <v-card-subtitle class="text--primary">
       <div style="color:#919191">
 I develop , intuitive and responsive user interface that helps users get things done with less effort and time with those technologies.      </div>
     </v-card-subtitle> -->
+=======
+    <v-card-subtitle class="text--primary">
+      <div style="color:#919191">
+I develop , intuitive and responsive user interface that helps users get things done with less effort and time with those technologies.      </div>
+    </v-card-subtitle>
+>>>>>>> 5b333470ecce34e41d4769128bf265340d720fad
 
   </v-card>
         </v-row>
@@ -142,12 +163,15 @@ I develop , intuitive and responsive user interface that helps users get things 
              <v-btn fab elevation="0" target="_blank" href="https://t.me/garduny" style="background:none !important" dark>
                <v-img max-width="40" src="telegram.svg"></v-img>
              </v-btn>
+<<<<<<< HEAD
              <v-btn fab elevation="0" target="_blank" href="viber://chat?number=07501267345" style="background:none !important" dark>
                <v-img max-width="40" src="viber.svg"></v-img>
              </v-btn>
              <v-btn fab elevation="0" target="_blank" href="https://api.whatsapp.com/send?phone=07501267345" style="background:none !important" dark>
                <v-img max-width="40" src="whatsapp.svg"></v-img>
              </v-btn>
+=======
+>>>>>>> 5b333470ecce34e41d4769128bf265340d720fad
 
             </v-row>
           </v-card-text>
