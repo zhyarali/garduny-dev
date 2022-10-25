@@ -13,7 +13,7 @@
   >
    
     <v-card-text class="pb-0 text-h5 font-weight-bold text-mode">
-      Hi, Iam Muhammed
+      Hi, Iam Zhyar
     </v-card-text>
 
     <v-card-subtitle class="text--primary">
@@ -23,7 +23,7 @@
     </v-card-subtitle>
 
     <v-card-actions>
-      <v-btn href="MohammadKhalilAhmadResume.pdf" Download class="primary ma-auto" text>Download Cv</v-btn>
+      <v-btn href="ZhyarAliMahmoodResume.pdf" Download class="primary ma-auto" text>Download Cv</v-btn>
     </v-card-actions>
   </v-card>
 

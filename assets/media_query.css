@@ -28,6 +28,9 @@
     .v-card .v-card__text{
       font-size: 25px !important;
     }
+    .v-card .footer-text{
+      font-size: 15px !important;
+    }
 
     .v-card{
       text-align: center !important;
